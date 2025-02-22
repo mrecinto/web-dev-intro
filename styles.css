@@ -1,0 +1,77 @@
+/* GLOBAL */
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* NAVBAR STYLES */
+
+.navbar {
+    list-style: none;
+    display:flex;
+    justify-content: center;
+    gap:20px;
+    padding: 20px;
+    background-color: #1f2937;
+}
+
+.navbar a {
+    color: white;
+}
+
+
+/* ABOUT */
+
+.about-section{
+    background-color: #1f2937;
+
+}
+.about-items {
+    display:flex;
+    padding: 20px;
+    gap: 20px;
+    justify-content: center;
+    /* gets it to the center */
+    align-items: center;
+    color: white;
+}
+
+
+
+/* SKILLS */
+
+.skills-section{
+    padding: 50px;
+}
+
+.skills-section h1{
+    text-align: center;
+    padding:20px;
+}
+
+.icons-container{
+    display:flex;
+    justify-content: center;
+    gap: 50px;
+    padding:20px;
+    
+    
+}
+
+.icons-container img{
+    height: auto;
+    width:150px;
+}
+
+
+
+
+
+
+
+
+
+
